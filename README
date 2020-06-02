@@ -1,0 +1,9 @@
+## IoT Library Helper ##
+
+Provides a collection of facades or abstractions for well-know Arduino libraries. In general it provides a class for sensors and actoators that I can use inside my projects with IoT.
+
+It's provide inside a Platformio project together with a VSCode workspace, but I can be used in other contexts. The main files are inside the lib folder. It should compile with no problems in other system or enverioments, just adjusting header paths.
+
+
+
+
